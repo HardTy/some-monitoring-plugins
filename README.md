@@ -1,2 +1,2 @@
 # some-monitoring-plugins
-some small monitoring plugins for special services
+some small and stupid monitoring plugins for special services
